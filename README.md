@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building inno
   - [Home Decor Chatbot](#): An interactive chatbot designed to assist users in selecting and purchasing home decor items based on their preferences and style.
 
 ## 🌐 Connect with Me
-- LinkedIn: [aryaan022](https://www.linkedin.com/in/aryaan022)
+- LinkedIn: [aryaan022](https://www.linkedin.com/in/aryan022)
 - Twitter: [@aryaan022](https://twitter.com/aryaan022)
 
 ## 🤝 Contributions
