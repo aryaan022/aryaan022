@@ -3,25 +3,25 @@
 Welcome to my GitHub profile! I'm a passionate developer who loves building innovative solutions and exploring new technologies. Here's a little bit about me:
 
 ## 🚀 About Me
-- 🌱 Currently learning: **Cloud Computing, Machine Learning, and Web3**
+- 🌱 Currently learning: **Web Development DSA**
 - 💻 Experienced in: **Full-stack Development, Open Source Contribution, and DevOps**
-- 🎓 Education: **Pursuing [Degree/Field of Study]**
-- 🌍 Based in: **[Your City, Country]**
+- 🎓 Education: **Pursuing Btech CSE**
+- 🌍 Based in: **India**
 - 💡 Fun fact: I love solving challenging puzzles and exploring the intersection of technology and creativity.
 
 ## 🔧 Technologies & Tools
 - **Languages:** JavaScript, Python, Java, C++
-- **Frontend:** React, Angular, HTML5, CSS3
-- **Backend:** Node.js, Express, Django, Flask
-- **Databases:** MySQL, MongoDB, PostgreSQL
-- **DevOps:** Docker, Kubernetes, Jenkins, GitHub Actions
-- **Other Tools:** Git, VS Code, Postman
+- **Frontend:** React, HTML5, CSS3
+- **Backend:** Node.js, Express.js
+- **Databases:** MySQL, MongoDB
+- **DevOps:** GitHub Actions
+- **Other Tools:** Git, VS Code,
 
 ## 📈 GitHub Stats
 ![Aryaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryaan022&show_icons=true&theme=radical)
 
 ## 💼 Work & Projects
-- 🔭 Currently working on: **[Your Current Project]**
+- 🔭 Currently working on: **LOCAL BUISNESS FINDER**
 - 🌟 Notable Projects:
   - [Local Finder](https://localfind.infinityfreeapp.com): A project designed to help users discover local businesses and services in their area using advanced search and filtering capabilities.
   - [Home Decor Chatbot](#): An interactive chatbot designed to assist users in selecting and purchasing home decor items based on their preferences and style.
