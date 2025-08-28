@@ -1,82 +1,76 @@
-# Hi there, I'm Aryaan! 👋
-
-Welcome to my GitHub profile!  
-I'm a passionate developer who loves building innovative solutions and exploring cutting-edge technologies. 🚀
-
----
-
-## 🚀 About Me
-- 🌱 Currently learning: **Web Development & DSA**
-- 💻 Experienced in: **Full-Stack Development, Open Source Contribution & DevOps**
-- 🎓 Education: **B.Tech in Computer Science & Engineering (CSE)**
-- 🌍 Based in: **India**
-- 💡 Fun Fact: I enjoy solving challenging puzzles and blending creativity with technology.
+<div align="center">
+  <!-- Typing SVG Banner -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hey+👋+I'm+Aryaan;Full+Stack+Developer+💻;Open+Source+Contributor+🌍;Always+Learning+New+Things+🚀" alt="Typing Banner" />
+  
+  <!-- Cool Coding GIF -->
+  <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="300" alt="Coding GIF" />
+</div>
 
 ---
 
-## 🔧 Technologies & Tools
+## 👨‍💻 About Me  
 
-**Languages:**  
-![JavaScript](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/javascript.png)  
-![Python](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/python.png)  
-![Java](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/java.png)  
-![C++](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/cpp.png)  
-
-**Frontend:**  
-![React](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/react.png)  
-![HTML5](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/html.png)  
-![CSS3](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/css.png)  
-
-**Backend:**  
-![Node.js](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/nodejs.png)  
-![Express](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/express.png)  
-
-**Databases:**  
-![MySQL](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/mysql.png)  
-![MongoDB](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/mongodb.png)  
-
-**DevOps & Tools:**  
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)  
-![Git](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/git.png)  
-![VS Code](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/vscode.png)  
+- 🎓 **B.Tech in Computer Science (CSE)**  
+- 🌱 Currently learning **DSA + Full-Stack Development**  
+- 💻 Passionate about **Web Development, AI & Open Source**  
+- ⚡ Fun Fact: I debug faster with coffee ☕  
 
 ---
 
-## 📈 GitHub Stats
+## 🔧 Tech Stack & Tools  
 
-![Aryaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryaan022&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryaan022&layout=compact&theme=radical)
-
----
-
-## 🎖️ GitHub Profile Achievements & Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aryaan022&theme=radical)  
-![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=aryaan022&label=VISITORS&countColor=%237B1E7A)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,python,java,cpp,git,github,vscode,docker,figma" alt="Tech Stack" />
+</p>
 
 ---
 
-## 💼 Work & Projects
+## 📊 GitHub Stats  
 
-- 🔭 **Currently working on:** **Local Business Finder**
-- 🌟 **Notable Projects:**
-  - [Local Finder](https://localfind.infinityfreeapp.com) → A platform to help users discover local businesses and services with advanced search & filtering.
-  - **Home Decor Chatbot** → An interactive AI-based chatbot that assists users in exploring and selecting home décor items based on preferences.
-
----
-
-## 🌐 Connect with Me
-
-- 💼 [LinkedIn – aryaan022](https://www.linkedin.com/in/aryan022)  
-- 🐦 [Twitter – @aryaan022](https://twitter.com/aryaan022)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aryaan022&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryaan022&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+</p>
 
 ---
 
-## 🤝 Contributions
+## 🔥 Streaks & Activity  
 
-I’m an advocate of **open source** and love collaborating on projects that make a real-world impact.  
-Feel free to explore my repositories or connect with me to discuss ideas. Let’s build something amazing together! ✨  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryaan022&theme=tokyonight" alt="GitHub Streak" width="49%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aryaan022&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophies" width="49%" />
+</p>
 
 ---
 
-⭐️ *“Keep learning, keep growing!”*
+## 🚀 Projects  
+
+- 🏠 [**Local Business Finder**](https://localfind.infinityfreeapp.com) → Discover nearby businesses easily  
+- 🛒 **Smart Cart AI Optimizer** → AI-powered shopping assistant  
+- ☁️ **AI Sleep Apnea Alert Assistant** → Detects abnormal sleep patterns  
+- 🤖 **Home Décor Chatbot** → Personalized chatbot for home décor suggestions  
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aryan022" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/aryaan022" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:aryaan@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  
+  ![Visitor Count](https://api.visitorbadge.io/api/VisitorHit?user=aryaan022&label=Profile+Views&countColor=%23263759)  
+  ⭐ _“Keep building, keep growing, keep shining!”_ ⭐
+  
+</div>
