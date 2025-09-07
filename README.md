@@ -45,7 +45,7 @@
 
 ## 🚀 Projects  
 
-- 🏠 [**Findify**](https://findify-fjiv.onrender.com/) → Discover nearby businesses easily  
+- 🏠 [**Findify**](https://findify.live/) → Discover nearby businesses easily  
 - 🛒 **Smart Cart AI Optimizer** → AI-powered shopping assistant  
 - ☁️ **AI Sleep Apnea Alert Assistant** → Detects abnormal sleep patterns  
 - 🤖 **Home Décor Chatbot** → Personalized chatbot for home décor suggestions  
