@@ -1,19 +1,19 @@
 <div align="center">
-  <h1>Hi there, I'm Aryan Khokhar 👋</h1>
+  <h1>Hi, I'm Aryan Khokhar 👋</h1>
   <h3>Full-Stack Developer & Computer Science Undergraduate</h3>
   
   <p>
-    Building scalable web applications, mastering algorithms, and turning ideas into real-world solutions.
+    I build scalable web applications, engineer real-time backend systems, and spend my free time grinding Data Structures & Algorithms.
   </p>
 
   <p>
-    <a href="https://www.linkedin.com/in/aryan022" target="_blank">
+    <a href="https://www.linkedin.com/in/ArryanKhokhar/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://twitter.com/aryaan022" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <a href="https://github.com/aryaan022" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
-    <a href="mailto:aryaan@example.com">
+    <a href="mailto:aryankhokhar022@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
@@ -23,13 +23,12 @@
 
 ## 👨‍💻 About Me
 
-I am a third-year B.Tech Computer Science and Engineering student at Lovely Professional University. I specialize in backend-heavy full-stack development and spend my free time grinding Data Structures & Algorithms to sharpen my problem-solving skills. 
+I am a 3rd-year B.Tech CSE student at Lovely Professional University. My primary focus is on backend-heavy development and building real-time applications using the MERN stack and WebSockets. When I'm not building projects, I'm competing in hackathons or optimizing my problem-solving skills on LeetCode.
 
-- 🎓 **Academics:** 3rd Year CSE Undergraduate at LPU.
-- 💻 **Tech Focus:** Building dynamic applications using **Node.js, Express.js, EJS, and MongoDB**.
-- 🧠 **Currently Learning:** Deep-diving into DSA (specifically C++ and bit manipulation) for technical interviews.
-- 🚀 **Recent Milestone:** Selected to pitch my startup concept, **Findify**, on Shark Tank.
-- 🏆 **Competitions:** Active participant in technical challenges like TCS CodeVita, Flipkart GRiD, and the Tata Imagination Challenge.
+- 🎓 **Academics:** B.Tech Computer Science & Engineering @ LPU
+- 💻 **Tech Focus:** Full-Stack Development (React, Node.js, Express, MongoDB) & Real-time Systems (Socket.io)
+- 🧠 **Currently Learning:** Advanced DSA in C++ & optimizing database query latency
+- 🚀 **Highlight:** Pitched my startup concept, **Findify**, on Shark Tank
 
 ---
 
@@ -37,38 +36,59 @@ I am a third-year B.Tech Computer Science and Engineering student at Lovely Prof
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts&theme=dark" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,js,html,css&theme=dark" alt="Languages" />
   </a>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,html,css,nodejs,express,mongodb,mysql&theme=dark" alt="Frameworks and Databases" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,tailwind,bootstrap&theme=dark" alt="Frameworks and Databases" />
   </a>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,figma&theme=dark" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker,figma&theme=dark" alt="Tools" />
   </a>
 </p>
+
+**Core Concepts:** RESTful APIs, JWT Authentication, MVC Architecture, WebSockets, OOPS, DBMS.
 
 ---
 
 ## 🚀 Featured Projects
 
-* 🏠 [**Findify**](https://findify.live/) 
-  * *A centralized platform to discover nearby businesses easily. Built with Node.js, Express, and MongoDB. Selected for a Shark Tank pitch.*
-* 🛒 **Smart Cart AI Optimizer** 
-  * *An AI-powered shopping assistant designed to streamline purchasing decisions and improve user experience.*
-* ☁️ **AI Sleep Apnea Alert Assistant** 
-  * *A health-tech tool leveraging AI to detect abnormal sleep patterns and issue real-time alerts.*
-* 🤖 **Home Décor Chatbot** 
-  * *A conversational bot providing highly personalized interior design and home décor suggestions.*
+### 🩸 [Blood Link - Emergency Alert Platform](https://github.com/aryaan022) *(Feb 2026 - Apr 2026)*
+A real-time blood donation platform designed for emergencies.
+*   Engineered geolocation matching (Mapbox) to connect donors with recipients instantly.
+*   Implemented automated email alert workflows and secure JWT authentication.
+*   **Tech Stack:** `Node.js` `Express.js` `MongoDB` `Socket.io` `EJS` `Nodemailer`
+
+### 💬 [Real-Time Chat Application](https://github.com/aryaan022) *(Oct 2025 - Jan 2026)*
+A full-duplex messaging system built for speed and reliability.
+*   Developed features including presence tracking, typing indicators, and read receipts using WebSockets.
+*   Secured REST APIs with MVC architecture and validation middleware.
+*   **Tech Stack:** `React` `Node.js` `Express` `MongoDB` `Socket.io` `Cloudinary`
+
+### 📍 [Findify - Local Business Finder](https://findify.live/) *(Aug 2025 - Oct 2025)*
+A local business discovery platform enabling seamless vendor onboarding and product listing.
+*   Built category-based filtering and responsive UI components.
+*   Integrated Cloudinary for media management and Passport.js for secure auth.
+*   *Selected to pitch this business concept on Shark Tank.*
+*   **Tech Stack:** `Node.js` `Express.js` `MongoDB` `JavaScript` `EJS`
+
+---
+
+## 🏆 Achievements & Hackathons
+
+*   🔥 **Problem Solving:** Solved **300+ DSA problems** on LeetCode.
+*   🥇 **Zinnovatio 3.0 Hackathon:** Secured Top 20 position out of 700+ competing teams.
+*   🥈 **VERTOS 1.0 Hackathon:** Achieved 7th Rank overall.
+*   🥉 **ETHOS Hackathon:** Active participant at the national event hosted by IIT Guwahati.
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryaan022&show_icons=true&theme=transparent&hide_border=true&title_color=00F7FF&icon_color=00F7FF&text_color=777777" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryaan022&layout=compact&theme=transparent&hide_border=true&title_color=00F7FF&text_color=777777" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aryaan022&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryaan022&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
 <br>
