@@ -1,76 +1,78 @@
 <div align="center">
-  <!-- Typing SVG Banner -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hey+👋+I'm+Aryaan;Full+Stack+Developer+💻;Open+Source+Contributor+🌍;Always+Learning+New+Things+🚀" alt="Typing Banner" />
+  <h1>Hi there, I'm Aryan Khokhar 👋</h1>
+  <h3>Full-Stack Developer & Computer Science Undergraduate</h3>
   
-  <!-- Cool Coding GIF -->
-  <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="300" alt="Coding GIF" />
+  <p>
+    Building scalable web applications, mastering algorithms, and turning ideas into real-world solutions.
+  </p>
+
+  <p>
+    <a href="https://www.linkedin.com/in/aryan022" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://twitter.com/aryaan022" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    </a>
+    <a href="mailto:aryaan@example.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
 </div>
 
 ---
 
-## 👨‍💻 About Me  
+## 👨‍💻 About Me
 
-- 🎓 **B.Tech in Computer Science (CSE)**  
-- 🌱 Currently learning **DSA + Full-Stack Development**  
-- 💻 Passionate about **Web Development, AI & Open Source**  
-- ⚡ Fun Fact: I debug faster with coffee ☕  
+I am a third-year B.Tech Computer Science and Engineering student at Lovely Professional University. I specialize in backend-heavy full-stack development and spend my free time grinding Data Structures & Algorithms to sharpen my problem-solving skills. 
 
----
-
-## 🔧 Tech Stack & Tools  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,python,java,cpp,git,github,vscode,docker,figma" alt="Tech Stack" />
-</p>
+- 🎓 **Academics:** 3rd Year CSE Undergraduate at LPU.
+- 💻 **Tech Focus:** Building dynamic applications using **Node.js, Express.js, EJS, and MongoDB**.
+- 🧠 **Currently Learning:** Deep-diving into DSA (specifically C++ and bit manipulation) for technical interviews.
+- 🚀 **Recent Milestone:** Selected to pitch my startup concept, **Findify**, on Shark Tank.
+- 🏆 **Competitions:** Active participant in technical challenges like TCS CodeVita, Flipkart GRiD, and the Tata Imagination Challenge.
 
 ---
 
-## 📊 GitHub Stats  
+## 🛠️ Tech Stack & Tools
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryaan022&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryaan022&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-</p>
-
----
-
-## 🔥 Streaks & Activity  
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryaan022&theme=tokyonight" alt="GitHub Streak" width="49%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=aryaan022&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophies" width="49%" />
-</p>
-
----
-
-## 🚀 Projects  
-
-- 🏠 [**Findify**](https://findify.live/) → Discover nearby businesses easily  
-- 🛒 **Smart Cart AI Optimizer** → AI-powered shopping assistant  
-- ☁️ **AI Sleep Apnea Alert Assistant** → Detects abnormal sleep patterns  
-- 🤖 **Home Décor Chatbot** → Personalized chatbot for home décor suggestions  
-
----
-
-## 🌐 Connect With Me  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/aryan022" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts&theme=dark" alt="Languages" />
   </a>
-  <a href="https://twitter.com/aryaan022" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,html,css,nodejs,express,mongodb,mysql&theme=dark" alt="Frameworks and Databases" />
   </a>
-  <a href="mailto:aryaan@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,figma&theme=dark" alt="Tools" />
   </a>
 </p>
 
 ---
+
+## 🚀 Featured Projects
+
+* 🏠 [**Findify**](https://findify.live/) 
+  * *A centralized platform to discover nearby businesses easily. Built with Node.js, Express, and MongoDB. Selected for a Shark Tank pitch.*
+* 🛒 **Smart Cart AI Optimizer** 
+  * *An AI-powered shopping assistant designed to streamline purchasing decisions and improve user experience.*
+* ☁️ **AI Sleep Apnea Alert Assistant** 
+  * *A health-tech tool leveraging AI to detect abnormal sleep patterns and issue real-time alerts.*
+* 🤖 **Home Décor Chatbot** 
+  * *A conversational bot providing highly personalized interior design and home décor suggestions.*
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  
-  ![Visitor Count](https://api.visitorbadge.io/api/VisitorHit?user=aryaan022&label=Profile+Views&countColor=%23263759)  
-  ⭐ _“Keep building, keep growing, keep shining!”_ ⭐
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=aryaan022&show_icons=true&theme=transparent&hide_border=true&title_color=00F7FF&icon_color=00F7FF&text_color=777777" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryaan022&layout=compact&theme=transparent&hide_border=true&title_color=00F7FF&text_color=777777" alt="Top Languages" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=aryaan022&label=Profile+Views&countColor=%23263759" alt="Visitor Count" />
 </div>
