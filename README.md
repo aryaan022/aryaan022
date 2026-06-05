@@ -27,7 +27,6 @@
 I am a passionate developer focusing on building robust, full-duplex systems and high-performance APIs. Whether I'm competing in national hackathons or architecting scalable databases, I thrive on solving complex technical challenges.
 
 - 🎓 **Education:** Pursuing B.Tech in **Computer Science and Engineering** at Lovely Professional University.
-- 💡 **Highlight:** Selected to pitch my startup concept, **Findify**, on the Shark Tank stage!
 - 💻 **Tech Focus:** Specialized in the **MERN Stack**, MVC architecture, and real-time WebSockets.
 - 🧠 **The Daily Grind:** Currently mastering Data Structures & Algorithms in **C++** to optimize code efficiency.
 
@@ -93,7 +92,7 @@ I am a passionate developer focusing on building robust, full-duplex systems and
   <summary><b>📍 Findify - Local Business Finder</b></summary>
   <br>
   <blockquote>
-    <i>A centralized local business discovery platform selected for a Shark Tank pitch.</i>
+    <i>A centralized local business discovery platform.</i>
     <br><br>
     <b>Key Features:</b> Vendor onboarding, category-based filtering, Passport.js authentication, and seamless media management with Cloudinary.<br>
     <b>Tech Stack:</b> Node.js, Express.js, JavaScript, EJS, Cloudinary.<br>
