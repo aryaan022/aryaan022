@@ -1,12 +1,13 @@
 <div align="center">
-  <h1>Hi, I'm Aryan Khokhar 👋</h1>
-  <h3>Full-Stack Developer & Computer Science Undergraduate</h3>
+  <!-- Dynamic Animated Banner -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi,+I'm+Aryan+Khokhar+👋;Full-Stack+Developer+💻;DSA+Enthusiast+🧠;Building+Scalable+Web+Apps+🚀" alt="Typing Banner" />
   
-  <p>
-    I build scalable web applications, engineer real-time backend systems, and spend my free time grinding Data Structures & Algorithms.
+  <p align="center">
+    <b>Engineering real-time backend systems, mastering algorithms, and turning ideas into impactful solutions.</b>
   </p>
 
-  <p>
+  <!-- Social Badges -->
+  <p align="center">
     <a href="https://www.linkedin.com/in/ArryanKhokhar/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
@@ -19,80 +20,115 @@
   </p>
 </div>
 
+<br>
+
+## 👨‍💻 Who Am I?
+
+I am a passionate developer focusing on building robust, full-duplex systems and high-performance APIs. Whether I'm competing in national hackathons or architecting scalable databases, I thrive on solving complex technical challenges.
+
+- 🎓 **Education:** Pursuing B.Tech in **Computer Science and Engineering** at Lovely Professional University.
+- 💡 **Highlight:** Selected to pitch my startup concept, **Findify**, on the Shark Tank stage!
+- 💻 **Tech Focus:** Specialized in the **MERN Stack**, MVC architecture, and real-time WebSockets.
+- 🧠 **The Daily Grind:** Currently mastering Data Structures & Algorithms in **C++** to optimize code efficiency.
+
 ---
 
-## 👨‍💻 About Me
+## ⚡ Tech Stack & Arsenal
 
-I am a 3rd-year B.Tech CSE student at Lovely Professional University. My primary focus is on backend-heavy development and building real-time applications using the MERN stack and WebSockets. When I'm not building projects, I'm competing in hackathons or optimizing my problem-solving skills on LeetCode.
-
-- 🎓 **Academics:** B.Tech Computer Science & Engineering @ LPU
-- 💻 **Tech Focus:** Full-Stack Development (React, Node.js, Express, MongoDB) & Real-time Systems (Socket.io)
-- 🧠 **Currently Learning:** Advanced DSA in C++ & optimizing database query latency
-- 🚀 **Highlight:** Pitched my startup concept, **Findify**, on Shark Tank
-
----
-
-## 🛠️ Tech Stack & Tools
-
+### Languages & Fundamentals
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,js,html,css&theme=dark" alt="Languages" />
-  </a>
-  <br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,tailwind,bootstrap&theme=dark" alt="Frameworks and Databases" />
-  </a>
-  <br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker,figma&theme=dark" alt="Tools" />
-  </a>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/DSA-FF6B6B?style=for-the-badge&logo=leetcode&logoColor=white" alt="DSA" />
 </p>
 
-**Core Concepts:** RESTful APIs, JWT Authentication, MVC Architecture, WebSockets, OOPS, DBMS.
+### Frontend & Backend Development
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io" />
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+</p>
+
+### Tools & Architecture
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Engineering
 
-### 🩸 [Blood Link - Emergency Alert Platform](https://github.com/aryaan022) *(Feb 2026 - Apr 2026)*
-A real-time blood donation platform designed for emergencies.
-*   Engineered geolocation matching (Mapbox) to connect donors with recipients instantly.
-*   Implemented automated email alert workflows and secure JWT authentication.
-*   **Tech Stack:** `Node.js` `Express.js` `MongoDB` `Socket.io` `EJS` `Nodemailer`
+<details open>
+  <summary><b>🩸 Blood Link - Emergency Alert Platform</b></summary>
+  <br>
+  <blockquote>
+    <i>A real-time blood donation platform engineered to instantly connect donors with recipients during emergencies using geolocation matching.</i>
+    <br><br>
+    <b>Key Features:</b> Automated email workflows via Nodemailer, Mapbox integration, and highly optimized MongoDB schemas.<br>
+    <b>Tech Stack:</b> Node.js, Express.js, MongoDB, Socket.io, Mapbox, JWT.<br>
+    🔗 <a href="https://github.com/aryaan022">View Source</a>
+  </blockquote>
+</details>
 
-### 💬 [Real-Time Chat Application](https://github.com/aryaan022) *(Oct 2025 - Jan 2026)*
-A full-duplex messaging system built for speed and reliability.
-*   Developed features including presence tracking, typing indicators, and read receipts using WebSockets.
-*   Secured REST APIs with MVC architecture and validation middleware.
-*   **Tech Stack:** `React` `Node.js` `Express` `MongoDB` `Socket.io` `Cloudinary`
+<details open>
+  <summary><b>💬 Real-Time Chat Application</b></summary>
+  <br>
+  <blockquote>
+    <i>A full-duplex messaging system built for ultra-low latency communication.</i>
+    <br><br>
+    <b>Key Features:</b> Presence tracking, typing indicators, read receipts, and secured RESTful APIs using strict validation middleware.<br>
+    <b>Tech Stack:</b> React, Node.js, Socket.io, Cloudinary, MongoDB.<br>
+    🔗 <a href="https://github.com/aryaan022">View Source</a>
+  </blockquote>
+</details>
 
-### 📍 [Findify - Local Business Finder](https://findify.live/) *(Aug 2025 - Oct 2025)*
-A local business discovery platform enabling seamless vendor onboarding and product listing.
-*   Built category-based filtering and responsive UI components.
-*   Integrated Cloudinary for media management and Passport.js for secure auth.
-*   *Selected to pitch this business concept on Shark Tank.*
-*   **Tech Stack:** `Node.js` `Express.js` `MongoDB` `JavaScript` `EJS`
+<details open>
+  <summary><b>📍 Findify - Local Business Finder</b></summary>
+  <br>
+  <blockquote>
+    <i>A centralized local business discovery platform selected for a Shark Tank pitch.</i>
+    <br><br>
+    <b>Key Features:</b> Vendor onboarding, category-based filtering, Passport.js authentication, and seamless media management with Cloudinary.<br>
+    <b>Tech Stack:</b> Node.js, Express.js, JavaScript, EJS, Cloudinary.<br>
+    🔗 <a href="https://findify.live/">View Live Platform</a>
+  </blockquote>
+</details>
 
 ---
 
-## 🏆 Achievements & Hackathons
+## 🏆 Hackathons & Milestones
 
-*   🔥 **Problem Solving:** Solved **300+ DSA problems** on LeetCode.
-*   🥇 **Zinnovatio 3.0 Hackathon:** Secured Top 20 position out of 700+ competing teams.
-*   🥈 **VERTOS 1.0 Hackathon:** Achieved 7th Rank overall.
-*   🥉 **ETHOS Hackathon:** Active participant at the national event hosted by IIT Guwahati.
+*   🔥 **Problem Solving:** Conquered **300+ DSA problems** on LeetCode.
+*   🥇 **Zinnovatio 3.0 Hackathon:** Secured a **Top 20** position out of 700+ competing teams.
+*   🥈 **VERTOS 1.0 Hackathon:** Achieved **7th Rank** overall.
+*   🥉 **ETHOS Hackathon:** Active participant in the national hackathon hosted at IIT Guwahati.
+*   📜 **Certifications:** Certified in Full Stack Development (CipherSchools), Advanced C++ (Udemy), and SQL to MongoDB Document Modeling.
 
 ---
 
-## 📊 GitHub Analytics
+## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryaan022&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryaan022&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aryaan022&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryaan022&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryaan022&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="50%" />
 </div>
 
 <br>
 
 <div align="center">
   <img src="https://api.visitorbadge.io/api/VisitorHit?user=aryaan022&label=Profile+Views&countColor=%23263759" alt="Visitor Count" />
+  <br>
+  <br>
+  <i>"Writing code that matters."</i>
 </div>
